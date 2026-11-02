@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="no">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="widt=device-width, initial-scale=1.0"
+        <title>Den aksepterende nettsiden</title>
+        <link rel="stylesheet" href="style.css">
+    </head> 
+    <body>
+
+        <header>
+            <h1>Ikke røyk🚭</h1>
+            <nav>
+              <a href="#om">Om meg</a>
+              <a href="#proskjekter">Proskjekter</a>
+            </nav>
+        </header>
+        <main>
+            <br><img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT2PJDOgNW5Nn23gnVTFYVVnDEQ93vRRHZ8NVLbbT_M_9Bxi9DLt_mpch0RIgYUeTklXEcMaj5HpVzRtNKMyl0bssJEz_6gG8S2jMQOOBL5AdHfHLxmyDuRpw&usqp=CAc" alt="">
+            <section id="om">
+                <h2>Om meg</h2>
+            </section>
+            <section id="projekter">
+                <h2>Mine projekter</h2>
+                <p>Her kommer informasjon om meg.</p>
+            </section>
+            <h2>Bare ikke gidd, nå kommer en liste over grunner hvorfor</h2>
+            <ul>
+                <li>Hva gjør du her</li>
+                <li>Ikke røyk<strong>nå er teksten bred</strong></li>
+                <li>Du kan bruke tiden din på så mye annet<em>nå er teksten kursiv<em></li>
+            </ul>
+            <p id="tekst">
+                Du kan få kreft, dø og det er ikke bra for deg<br>
+                Når jeg skriver br kommer neste linje under</p>
+            <h3><ul>what waht</ul></h3>
+            <h4>Du kommer til å begynne å prate rart</h4>
+            <p id="rart">
+               Dette skal være i oransje. Det er litt fint
+            </p>
+            <h3 class="uthevet">
+                Her ligger fargen rundt teksten
+            </h3>
+            <!--Her står det om røyking--> 
+        </main>
+
+        <footer> 
+            <p id="copyrigth"> <em>Denne siden kan ikke brukes til å søke om jobb, den kan ikke brukes til å skrive saktekster. Den er kun i bruk for å lære om røyking og for å advare om konsekvenser. Det er ikke lov å kopiere det som står på denne nettsiden. Hvis du skal kopiere noe på denne nettsiden, trenger du tillatelse fra eieren. Du kan likevel legge nettsiden i saker om røyking og be folk lese denne siden.Nummer: 98974453 Mail: massi94@icloud.no</em></p>
+        </footer>
+    </body>
+    <body>
+        <h1>Min hjemmeside</h1>
+        <h2>
+            <li><a href="http://127.0.0.1:5500/index.html">Link til hovedsiden</a></li>
+        </h2>
+
+         <h1>Hva jeg vil gjøre</h1>
+        <ol>
+            <li>søke om jobb</li>
+            <li><a href="https://www.helsenorge.no/snus-og-roykeslutt/fordeler-ved-a-slutte-a-royke/"> Fordeler ved å slutte å røyke </a></li>
+        </ol>
+    </body>
+    <body>
+       <h1> Røyking kan skade lungene dine </h1>
+    </body>
