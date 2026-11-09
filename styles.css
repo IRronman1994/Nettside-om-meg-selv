@@ -16,3 +16,16 @@ p {
     align-items: center;
     justify-content: center;   
 }
+
+.back.button {
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+section {
+    margin: 40px;
+    font-size: 20px;
+}
